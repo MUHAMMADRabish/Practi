@@ -11,16 +11,16 @@
 <test  name="Home">
 <parameter name="browser" value="chrome"></parameter>
 <classes>
-<class name="Runer.HomeDepotTest"></class>
+<class name="Runer.API"></class>
 
 </classes>
 </test>
-<test  name="firefox">
+<!--  <test  name="firefox">
 <parameter name="browser" value="firefox"></parameter>
 <classes>
 <class name="Runer.HomeDepotTest"></class>
 
 </classes>
-</test>
+</test>-->
 
 </suite>
